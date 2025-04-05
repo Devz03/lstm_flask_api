@@ -1,0 +1,71 @@
+Day,Temperature,Humidity,Rainfall,Soil Moisture,Disease,Disease Severity (%)
+312,30.49,86.28,4.61,29.26,Tomato___Tomato_Yellow_Leaf_Curl_Virus,78.35
+172,20.92,54.23,17.78,36.8,Tomato___Leaf_Mold,46.41
+144,25.92,47.54,22.95,38.88,Tomato___Late_blight,39.42
+268,17.85,53.6,10.73,33.58,Tomato___Target_Spot,67.1
+230,28.4,52.35,18.29,36.31,Tomato___Spider_mites Two-spotted_spider_mite,64.68
+70,21.77,61.11,0.0,27.82,Tomato___Bacterial_spot,20.51
+22,23.87,88.14,15.54,35.38,Tomato___healthy,0.0
+290,21.89,60.89,0.0,27.81,Tomato___Target_Spot,73.33
+122,20.45,43.78,16.89,36.4,Tomato___Late_blight,37.74
+341,20.89,40.79,5.77,30.8,Tomato___Tomato_mosaic_virus,95.83
+120,28.76,38.67,0.0,27.12,Tomato___Late_blight,33.5
+222,15.66,47.25,19.44,38.15,Tomato___Spider_mites Two-spotted_spider_mite,64.09
+154,26.16,71.27,23.47,39.12,Tomato___Leaf_Mold,40.44
+112,24.87,64.67,8.82,31.93,Tomato___Late_blight,30.93
+18,26.57,52.11,0.0,27.34,Tomato___healthy,0.0
+227,25.32,67.18,10.7,32.82,Tomato___Spider_mites Two-spotted_spider_mite,64.46
+302,22.2,82.56,11.47,33.52,Tomato___Tomato_Yellow_Leaf_Curl_Virus,83.06
+88,26.64,67.56,15.65,35.16,Tomato___Early_blight,31.81
+119,30.71,48.65,0.0,26.93,Tomato___Late_blight,26.81
+30,23.54,52.96,6.22,30.76,Tomato___healthy,0.0
+95,23.04,89.47,20.8,38.09,Tomato___Early_blight,30.8
+158,27.37,68.56,16.09,35.31,Tomato___Leaf_Mold,38.84
+202,27.8,44.88,0.0,27.22,Tomato___Septoria_leaf_spot,57.76
+118,19.16,63.05,0.0,28.08,Tomato___Late_blight,27.11
+113,25.3,106.18,6.66,30.8,Tomato___Late_blight,30.37
+174,26.71,51.35,5.46,30.06,Tomato___Leaf_Mold,43.38
+243,27.52,33.32,0.54,27.52,Tomato___Spider_mites Two-spotted_spider_mite,62.52
+235,35.72,71.35,0.0,26.43,Tomato___Spider_mites Two-spotted_spider_mite,63.62
+366,22.99,45.32,0.0,27.7,Tomato___Tomato_mosaic_virus,100.0
+313,29.13,74.04,3.27,28.72,Tomato___Tomato_Yellow_Leaf_Curl_Virus,77.41
+310,23.99,48.33,0.41,27.81,Tomato___Tomato_Yellow_Leaf_Curl_Virus,83.79
+162,28.94,60.72,16.69,35.45,Tomato___Leaf_Mold,47.28
+363,24.46,51.9,12.33,33.72,Tomato___Tomato_mosaic_virus,94.98
+285,35.67,87.73,0.0,26.43,Tomato___Target_Spot,70.38
+126,35.95,82.2,9.71,31.26,Tomato___Late_blight,29.33
+231,21.35,55.95,6.97,31.35,Tomato___Spider_mites Two-spotted_spider_mite,75.48
+229,21.42,75.56,11.43,33.57,Tomato___Spider_mites Two-spotted_spider_mite,51.7
+211,27.85,63.53,11.5,32.97,Tomato___Septoria_leaf_spot,60.58
+129,25.5,82.85,7.03,30.96,Tomato___Late_blight,30.23
+4,32.62,48.4,9.73,31.6,Tomato___healthy,0.0
+233,25.23,53.34,4.1,29.53,Tomato___Spider_mites Two-spotted_spider_mite,67.75
+288,27.94,43.4,9.24,31.83,Tomato___Target_Spot,71.8
+238,25.93,80.33,0.0,27.41,Tomato___Spider_mites Two-spotted_spider_mite,66.27
+203,30.42,31.94,9.4,31.66,Tomato___Septoria_leaf_spot,50.74
+283,32.93,56.54,22.36,37.89,Tomato___Target_Spot,83.21
+261,20.37,45.16,2.53,29.23,Tomato___Target_Spot,73.88
+32,34.26,80.31,4.04,28.59,Tomato___healthy,0.0
+260,28.87,52.33,0.0,27.11,Tomato___Target_Spot,71.24
+171,20.55,47.09,5.29,30.59,Tomato___Leaf_Mold,39.73
+224,16.94,47.16,16.17,36.39,Tomato___Spider_mites Two-spotted_spider_mite,57.17
+234,21.74,65.66,19.4,37.53,Tomato___Spider_mites Two-spotted_spider_mite,64.24
+39,18.36,53.25,12.08,34.2,Tomato___Bacterial_spot,12.14
+57,20.8,56.27,4.3,30.07,Tomato___Bacterial_spot,15.05
+344,22.47,85.45,0.06,27.78,Tomato___Tomato_mosaic_virus,98.95
+66,31.78,29.41,11.82,32.73,Tomato___Bacterial_spot,19.32
+223,28.43,72.46,4.18,29.25,Tomato___Spider_mites Two-spotted_spider_mite,65.61
+44,23.49,67.72,0.0,27.65,Tomato___Bacterial_spot,17.32
+221,36.57,53.11,0.0,26.34,Tomato___Spider_mites Two-spotted_spider_mite,59.51
+150,26.48,71.33,0.0,27.35,Tomato___Leaf_Mold,34.6
+121,28.96,50.3,0.0,27.1,Tomato___Late_blight,39.84
+236,28.17,46.17,23.01,38.69,Tomato___Spider_mites Two-spotted_spider_mite,68.98
+151,26.25,67.51,0.11,27.43,Tomato___Leaf_Mold,37.63
+111,15.41,68.65,0.0,28.46,Tomato___Late_blight,31.54
+244,29.33,82.44,0.0,27.07,Tomato___Spider_mites Two-spotted_spider_mite,69.26
+104,20.99,51.36,7.34,31.57,Tomato___Early_blight,33.33
+189,20.77,65.06,15.74,35.79,Tomato___Septoria_leaf_spot,43.73
+269,22.8,44.82,18.99,37.22,Tomato___Target_Spot,76.42
+281,25.57,19.55,25.75,40.32,Tomato___Target_Spot,76.73
+280,23.07,55.91,6.98,31.18,Tomato___Target_Spot,77.24
+256,22.58,67.07,13.77,34.63,Tomato___Spider_mites Two-spotted_spider_mite,64.54

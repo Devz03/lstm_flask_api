@@ -1,0 +1,367 @@
+Day,Temperature,Humidity,Rainfall,Soil Moisture,Disease,Disease Severity (%)
+1,27.48,63.36,9.08,31.79,Tomato___healthy,0
+2,24.31,60.19,0,27.57,Tomato___healthy,0
+3,28.24,61.47,15.29,34.82,Tomato___healthy,0
+4,32.62,48.4,9.73,31.6,Tomato___healthy,0
+5,23.83,60.37,7.56,31.4,Tomato___healthy,0
+6,23.83,67.47,14.83,35.03,Tomato___healthy,0
+7,32.9,81.77,21.65,37.54,Tomato___healthy,0
+8,28.84,74.39,15.14,34.69,Tomato___healthy,0
+9,22.65,92.3,0,27.73,Tomato___healthy,0
+10,27.71,48.49,0,27.23,Tomato___healthy,0
+11,22.68,73.08,0,27.73,Tomato___healthy,0
+12,22.67,62.75,5.26,30.36,Tomato___healthy,0
+13,26.21,92.85,10.18,32.47,Tomato___healthy,0
+14,15.43,47.88,0,28.46,Tomato___healthy,0
+15,16.38,47.4,6.87,31.8,Tomato___healthy,0
+16,22.19,51.01,0,27.78,Tomato___healthy,0
+17,19.94,28.14,0,28.01,Tomato___healthy,0
+18,26.57,52.11,0,27.34,Tomato___healthy,0
+19,20.46,48.61,0,27.95,Tomato___healthy,0
+20,17.94,62.26,0,28.21,Tomato___healthy,0
+21,32.33,65.13,0,26.77,Tomato___healthy,0
+22,23.87,88.14,15.54,35.38,Tomato___healthy,0
+23,25.34,74.26,0,27.47,Tomato___healthy,0
+24,17.88,51.35,31.32,43.87,Tomato___healthy,0
+25,22.28,46.52,9.93,32.74,Tomato___healthy,0
+26,25.55,67.38,6.85,30.87,Tomato___healthy,0
+27,19.25,40.2,0,28.08,Tomato___healthy,0
+28,26.88,87.47,12,33.31,Tomato___healthy,0
+29,22,77.69,0,27.8,Tomato___healthy,0
+30,23.54,52.96,6.22,30.76,Tomato___healthy,0
+31,21.99,34.3,30.6,43.1,Tomato___healthy,0
+32,34.26,80.31,4.04,28.59,Tomato___healthy,0
+33,24.93,58.28,16.49,35.75,Tomato___healthy,0
+34,19.71,78.57,0,28.03,Tomato___healthy,0
+35,29.11,36.08,4.65,29.41,Tomato___healthy,0
+36,18.9,51.01,22.71,39.46,Tomato___healthy,0
+37,26.04,60.08,0,27.4,Tomato___healthy,0
+38,15.2,60.7,23.12,40.04,Tomato___Bacterial_spot,14.72
+39,18.36,53.25,12.08,34.2,Tomato___Bacterial_spot,12.14
+40,25.98,69.34,0,27.4,Tomato___Bacterial_spot,15.67
+41,28.69,43.99,11.32,32.79,Tomato___Bacterial_spot,0
+42,25.86,57.86,14.73,34.78,Tomato___Bacterial_spot,21.67
+43,24.42,61.8,11.22,33.17,Tomato___Bacterial_spot,10.81
+44,23.49,67.72,0,27.65,Tomato___Bacterial_spot,17.32
+45,17.61,70.67,0,28.24,Tomato___Bacterial_spot,6.86
+46,21.4,43.13,2.52,29.12,Tomato___Bacterial_spot,15.39
+47,22.7,36.99,4.26,29.86,Tomato___Bacterial_spot,7.34
+48,30.29,79.17,11.21,32.57,Tomato___Bacterial_spot,9.76
+49,26.72,64.98,6.78,30.72,Tomato___Bacterial_spot,22.72
+50,16.18,48.77,0,28.38,Tomato___Bacterial_spot,12.47
+51,26.62,83.27,8.8,31.74,Tomato___Bacterial_spot,14.79
+52,23.07,61.74,11.11,33.25,Tomato___Bacterial_spot,18.32
+53,21.62,77.69,10.6,33.14,Tomato___Bacterial_spot,16.72
+54,28.06,61.01,15.81,35.1,Tomato___Bacterial_spot,15.27
+55,30.15,90.91,13.34,33.65,Tomato___Bacterial_spot,16.62
+56,29.66,86.33,9.59,31.83,Tomato___Bacterial_spot,27.09
+57,20.8,56.27,4.3,30.07,Tomato___Bacterial_spot,15.05
+58,23.45,74.57,0,27.65,Tomato___Bacterial_spot,16.62
+59,26.66,69.68,9.3,31.98,Tomato___Bacterial_spot,21.14
+60,29.88,80.53,7.08,30.55,Tomato___Bacterial_spot,21.69
+61,22.6,45.53,7.72,31.6,Tomato___Bacterial_spot,22.37
+62,24.07,70.29,0,27.59,Tomato___Bacterial_spot,19.91
+63,19.47,75.88,0,28.05,Tomato___Bacterial_spot,11.27
+64,19.02,33.62,15.53,35.86,Tomato___Bacterial_spot,25.43
+65,29.06,42.25,4.6,29.4,Tomato___Bacterial_spot,11.8
+66,31.78,29.41,11.82,32.73,Tomato___Bacterial_spot,19.32
+67,24.64,55.96,5.28,30.18,Tomato___Bacterial_spot,14.31
+68,30.02,70.76,5.3,29.65,Tomato___Bacterial_spot,18.04
+69,26.81,82.54,14.38,34.51,Tomato___Bacterial_spot,20.27
+70,21.77,61.11,0,27.82,Tomato___Bacterial_spot,20.51
+71,26.81,84.43,5.96,30.3,Tomato___Bacterial_spot,21.29
+72,32.69,39.3,0.38,26.92,Tomato___Bacterial_spot,27.52
+73,24.82,34.45,0.66,27.85,Tomato___Bacterial_spot,21.99
+74,32.82,59.17,1.91,27.67,Tomato___Bacterial_spot,18.78
+75,11.9,65.76,7.22,32.42,Tomato___Early_blight,25.09
+76,29.11,59.51,0.21,27.2,Tomato___Early_blight,26.5
+77,25.44,28.99,17.56,36.24,Tomato___Early_blight,14.68
+78,23.5,58.66,0,27.65,Tomato___Early_blight,24.08
+79,25.46,40.43,3.13,29.02,Tomato___Early_blight,24.88
+80,15.06,70.05,0.6,28.8,Tomato___Early_blight,20.16
+81,23.9,65.5,19.47,37.34,Tomato___Early_blight,28.8
+82,26.79,45.9,6.97,30.8,Tomato___Early_blight,21.44
+83,32.39,52.29,15.32,34.42,Tomato___Early_blight,23.09
+84,22.41,44.11,0,27.76,Tomato___Early_blight,21.87
+85,20.96,59.06,7.67,31.74,Tomato___Early_blight,23.09
+86,22.49,74.33,13.9,34.7,Tomato___Early_blight,17.81
+87,29.58,45.21,5.82,29.95,Tomato___Early_blight,16.36
+88,26.64,67.56,15.65,35.16,Tomato___Early_blight,31.81
+89,22.35,52.05,0,27.76,Tomato___Early_blight,19.87
+90,27.57,48.11,19.09,36.79,Tomato___Early_blight,19.43
+91,25.49,58.39,27.99,41.45,Tomato___Early_blight,13.89
+92,29.84,44.47,1.37,27.7,Tomato___Early_blight,21.74
+93,21.49,51.7,0.54,28.12,Tomato___Early_blight,18.59
+94,23.36,42.03,19.53,37.43,Tomato___Early_blight,33.69
+95,23.04,89.47,20.8,38.09,Tomato___Early_blight,30.8
+96,17.68,60.53,0,28.23,Tomato___Early_blight,22.59
+97,26.48,49.5,0.8,27.75,Tomato___Early_blight,37.56
+98,26.31,63.21,2.18,28.46,Tomato___Early_blight,31.48
+99,25.03,58.32,0,27.5,Tomato___Early_blight,25.23
+100,23.83,56.69,0,27.62,Tomato___Early_blight,14.63
+101,17.92,69.21,0,28.21,Tomato___Early_blight,38.85
+102,22.9,71.36,0,27.71,Tomato___Early_blight,20.72
+103,23.29,52.04,4.65,30,Tomato___Early_blight,19.72
+104,20.99,51.36,7.34,31.57,Tomato___Early_blight,33.33
+105,24.19,55.87,20.51,37.83,Tomato___Early_blight,40.69
+106,27.02,25.47,0,27.3,Tomato___Early_blight,35.69
+107,34.43,37.27,14.84,33.98,Tomato___Early_blight,31.86
+108,25.87,80.5,2.86,28.84,Tomato___Early_blight,32.29
+109,26.29,84.67,4.51,29.62,Tomato___Early_blight,33.86
+110,24.63,56.26,11.75,33.41,Tomato___Early_blight,33.66
+111,15.41,68.65,0,28.46,Tomato___Late_blight,31.54
+112,24.87,64.67,8.82,31.93,Tomato___Late_blight,30.93
+113,25.3,106.18,6.66,30.8,Tomato___Late_blight,30.37
+114,37.32,76.79,9.92,31.23,Tomato___Late_blight,27.19
+115,24.04,58.08,7.89,31.54,Tomato___Late_blight,29.83
+116,26.51,45.67,29.55,42.13,Tomato___Late_blight,23.04
+117,24.83,35.9,0,27.52,Tomato___Late_blight,31.29
+118,19.16,63.05,0,28.08,Tomato___Late_blight,27.11
+119,30.71,48.65,0,26.93,Tomato___Late_blight,26.81
+120,28.76,38.67,0,27.12,Tomato___Late_blight,33.5
+121,28.96,50.3,0,27.1,Tomato___Late_blight,39.84
+122,20.45,43.78,16.89,36.4,Tomato___Late_blight,37.74
+123,32.01,85.31,19.21,36.4,Tomato___Late_blight,25.57
+124,17.99,73.22,0,28.2,Tomato___Late_blight,28.75
+125,27.93,59.88,0,27.21,Tomato___Late_blight,38.68
+126,35.95,82.2,9.71,31.26,Tomato___Late_blight,29.33
+127,20.05,61.16,0,28,Tomato___Late_blight,33.4
+128,22.17,47.08,11.33,33.45,Tomato___Late_blight,37.54
+129,25.5,82.85,7.03,30.96,Tomato___Late_blight,30.23
+130,22.48,68.08,0,27.75,Tomato___Late_blight,35.87
+131,17.25,44.44,20.48,38.51,Tomato___Late_blight,28.95
+132,25.34,57.14,22.96,38.95,Tomato___Late_blight,32.88
+133,19.69,46.87,0,28.03,Tomato___Late_blight,37.76
+134,27.37,39.26,1.12,27.82,Tomato___Late_blight,28.47
+135,20.4,73.89,7.86,31.89,Tomato___Late_blight,38.91
+136,32.75,88.64,8.34,30.9,Tomato___Late_blight,36.89
+137,21.08,39.02,11.59,33.68,Tomato___Late_blight,40.02
+138,23.39,68.44,25.1,40.21,Tomato___Late_blight,38.65
+139,29.07,50.24,3.23,28.71,Tomato___Late_blight,44.63
+140,18.85,52.69,0,28.12,Tomato___Late_blight,38.71
+141,26.14,51.11,0,27.39,Tomato___Late_blight,36.21
+142,31.54,47.04,0,26.85,Tomato___Late_blight,39.24
+143,16.96,60.73,4.67,30.64,Tomato___Late_blight,41.62
+144,25.92,47.54,22.95,38.88,Tomato___Late_blight,39.42
+145,26.3,64.06,0,27.37,Tomato___Late_blight,39.66
+146,28.91,59.25,7.24,30.73,Tomato___Late_blight,36.22
+147,18.82,56.42,4.84,30.54,Tomato___Late_blight,36.69
+148,18.4,46.39,16.88,36.6,Tomato___Leaf_Mold,33.26
+149,27.61,51.35,30.27,42.37,Tomato___Leaf_Mold,49.3
+150,26.48,71.33,0,27.35,Tomato___Leaf_Mold,34.6
+151,26.25,67.51,0.11,27.43,Tomato___Leaf_Mold,37.63
+152,26.73,45.34,15.44,35.05,Tomato___Leaf_Mold,37.78
+153,21.6,61.49,11.82,33.75,Tomato___Leaf_Mold,46.12
+154,26.16,71.27,23.47,39.12,Tomato___Leaf_Mold,40.44
+155,26.47,34.96,10.84,32.77,Tomato___Leaf_Mold,48.43
+156,21.43,68.15,1.41,28.56,Tomato___Leaf_Mold,39.1
+157,34.33,50.06,10.91,32.02,Tomato___Leaf_Mold,44.13
+158,27.37,68.56,16.09,35.31,Tomato___Leaf_Mold,38.84
+159,19.04,48.55,13.2,34.7,Tomato___Leaf_Mold,54.01
+160,28.28,32.93,10.07,32.21,Tomato___Leaf_Mold,37.62
+161,20.13,35.59,15.67,35.82,Tomato___Leaf_Mold,45.38
+162,28.94,60.72,16.69,35.45,Tomato___Leaf_Mold,47.28
+163,30.79,63.9,18.82,36.33,Tomato___Leaf_Mold,46.45
+164,20.9,46.44,11.49,33.65,Tomato___Leaf_Mold,43.73
+165,29.82,69.58,3.33,28.68,Tomato___Leaf_Mold,44.28
+166,27.06,35.08,6.47,30.53,Tomato___Leaf_Mold,45.42
+167,29.11,59.01,17.07,35.62,Tomato___Leaf_Mold,44.74
+168,34.48,41.83,0,26.55,Tomato___Leaf_Mold,50.57
+169,23.77,50.22,8.69,31.97,Tomato___Leaf_Mold,57.08
+170,21.23,60.71,1.07,28.41,Tomato___Leaf_Mold,43.51
+171,20.55,47.09,5.29,30.59,Tomato___Leaf_Mold,39.73
+172,20.92,54.23,17.78,36.8,Tomato___Leaf_Mold,46.41
+173,24.61,75.09,6.91,30.99,Tomato___Leaf_Mold,60.02
+174,26.71,51.35,5.46,30.06,Tomato___Leaf_Mold,43.38
+175,26.38,72.54,0,27.36,Tomato___Leaf_Mold,55.87
+176,29.14,43.05,12.46,33.32,Tomato___Leaf_Mold,56.33
+177,25.07,67.95,11.45,33.22,Tomato___Leaf_Mold,45.45
+178,32.27,81.62,26.63,40.09,Tomato___Leaf_Mold,51.34
+179,23.68,22.93,1.92,28.59,Tomato___Leaf_Mold,56.91
+180,38.6,48.05,7.19,29.74,Tomato___Leaf_Mold,47.15
+181,28.13,68.66,7.49,30.93,Tomato___Leaf_Mold,48.3
+182,20.71,56.95,20.77,38.32,Tomato___Leaf_Mold,46.68
+183,19.65,65.57,4.05,30.06,Tomato___Leaf_Mold,44.79
+184,27.41,50.94,7.79,31.15,Tomato___Septoria_leaf_spot,46.89
+185,23.88,61.3,11.08,33.15,Tomato___Septoria_leaf_spot,44.29
+186,28.57,57.66,6.87,30.58,Tomato___Septoria_leaf_spot,50.86
+187,27.37,77.52,0.54,27.53,Tomato___Septoria_leaf_spot,47.11
+188,24.64,63.82,6.94,31.01,Tomato___Septoria_leaf_spot,52.4
+189,20.77,65.06,15.74,35.79,Tomato___Septoria_leaf_spot,43.73
+190,17.43,53.82,0,28.26,Tomato___Septoria_leaf_spot,53.44
+191,22.77,52.69,6.33,30.89,Tomato___Septoria_leaf_spot,56.22
+192,29.28,53.51,0,27.07,Tomato___Septoria_leaf_spot,42.36
+193,26.07,65.92,16.95,35.87,Tomato___Septoria_leaf_spot,54.47
+194,18.77,53.69,0,28.12,Tomato___Septoria_leaf_spot,59.02
+195,25.87,64.35,0,27.41,Tomato___Septoria_leaf_spot,47.1
+196,26.93,91.13,8.77,31.69,Tomato___Septoria_leaf_spot,61.79
+197,20.58,73.07,20.66,38.27,Tomato___Septoria_leaf_spot,55.79
+198,25.77,55.11,4.34,29.59,Tomato___Septoria_leaf_spot,50.45
+199,25.29,78.02,0,27.47,Tomato___Septoria_leaf_spot,53.97
+200,19.29,53.88,23.81,39.98,Tomato___Septoria_leaf_spot,57.31
+201,26.79,29.43,0,27.32,Tomato___Septoria_leaf_spot,55.17
+202,27.8,44.88,0,27.22,Tomato___Septoria_leaf_spot,57.76
+203,30.42,31.94,9.4,31.66,Tomato___Septoria_leaf_spot,50.74
+204,30.27,54.73,0,26.97,Tomato___Septoria_leaf_spot,56.46
+205,18.11,60.28,0,28.19,Tomato___Septoria_leaf_spot,48.82
+206,20.31,85.15,12.08,34.01,Tomato___Septoria_leaf_spot,55.61
+207,27.58,64.9,7.44,30.96,Tomato___Septoria_leaf_spot,51.92
+208,27.57,56.71,0,27.24,Tomato___Septoria_leaf_spot,53.03
+209,27.58,72.44,0,27.24,Tomato___Septoria_leaf_spot,63.17
+210,44.26,26.83,13.72,32.44,Tomato___Septoria_leaf_spot,62.72
+211,27.85,63.53,11.5,32.97,Tomato___Septoria_leaf_spot,60.58
+212,30.68,71.56,4.01,28.94,Tomato___Septoria_leaf_spot,52.35
+213,29.77,37.82,23.47,38.76,Tomato___Septoria_leaf_spot,56.5
+214,28.26,77.16,0,27.17,Tomato___Septoria_leaf_spot,64.42
+215,23.42,65.08,0,27.66,Tomato___Septoria_leaf_spot,59.34
+216,28.79,53.77,0,27.12,Tomato___Septoria_leaf_spot,70.5
+217,21.14,69.49,4.54,30.16,Tomato___Septoria_leaf_spot,61.14
+218,23.82,94.06,7.43,31.34,Tomato___Septoria_leaf_spot,60.41
+219,22.57,62.73,2.59,29.04,Tomato___Septoria_leaf_spot,58.18
+220,25.41,63.72,8.52,31.72,Tomato___Septoria_leaf_spot,60.67
+221,36.57,53.11,0,26.34,Tomato___Spider_mites Two-spotted_spider_mite,59.51
+222,15.66,47.25,19.44,38.15,Tomato___Spider_mites Two-spotted_spider_mite,64.09
+223,28.43,72.46,4.18,29.25,Tomato___Spider_mites Two-spotted_spider_mite,65.61
+224,16.94,47.16,16.17,36.39,Tomato___Spider_mites Two-spotted_spider_mite,57.17
+225,22.64,61.07,8.43,31.95,Tomato___Spider_mites Two-spotted_spider_mite,54.71
+226,30.44,52.84,9.57,31.74,Tomato___Spider_mites Two-spotted_spider_mite,52.46
+227,25.32,67.18,10.7,32.82,Tomato___Spider_mites Two-spotted_spider_mite,64.46
+228,19.61,65,9.48,32.78,Tomato___Spider_mites Two-spotted_spider_mite,56.67
+229,21.42,75.56,11.43,33.57,Tomato___Spider_mites Two-spotted_spider_mite,51.7
+230,28.4,52.35,18.29,36.31,Tomato___Spider_mites Two-spotted_spider_mite,64.68
+231,21.35,55.95,6.97,31.35,Tomato___Spider_mites Two-spotted_spider_mite,75.48
+232,26.08,45.32,12.09,33.44,Tomato___Spider_mites Two-spotted_spider_mite,63.26
+233,25.23,53.34,4.1,29.53,Tomato___Spider_mites Two-spotted_spider_mite,67.75
+234,21.74,65.66,19.4,37.53,Tomato___Spider_mites Two-spotted_spider_mite,64.24
+235,35.72,71.35,0,26.43,Tomato___Spider_mites Two-spotted_spider_mite,63.62
+236,28.17,46.17,23.01,38.69,Tomato___Spider_mites Two-spotted_spider_mite,68.98
+237,14.87,73.04,4.6,30.81,Tomato___Spider_mites Two-spotted_spider_mite,63.21
+238,25.93,80.33,0,27.41,Tomato___Spider_mites Two-spotted_spider_mite,66.27
+239,21.69,66.2,6.28,30.97,Tomato___Spider_mites Two-spotted_spider_mite,66.81
+240,29.26,88.15,0,27.07,Tomato___Spider_mites Two-spotted_spider_mite,62.14
+241,21.04,48.39,13.41,34.6,Tomato___Spider_mites Two-spotted_spider_mite,70.71
+242,24.43,41.33,0,27.56,Tomato___Spider_mites Two-spotted_spider_mite,65.15
+243,27.52,33.32,0.54,27.52,Tomato___Spider_mites Two-spotted_spider_mite,62.52
+244,29.33,82.44,0,27.07,Tomato___Spider_mites Two-spotted_spider_mite,69.26
+245,19,69.82,0.48,28.34,Tomato___Spider_mites Two-spotted_spider_mite,62.36
+246,23.33,59.17,0,27.67,Tomato___Spider_mites Two-spotted_spider_mite,67.26
+247,22.63,64.2,0,27.74,Tomato___Spider_mites Two-spotted_spider_mite,67.35
+248,21.73,43.12,12.6,34.13,Tomato___Spider_mites Two-spotted_spider_mite,73.1
+249,33.83,96.69,12.86,33.05,Tomato___Spider_mites Two-spotted_spider_mite,70.32
+250,27.02,61.94,9.25,31.92,Tomato___Spider_mites Two-spotted_spider_mite,68.09
+251,18.7,61.64,0,28.13,Tomato___Spider_mites Two-spotted_spider_mite,72.58
+252,29.59,70.89,4.52,29.3,Tomato___Spider_mites Two-spotted_spider_mite,75.72
+253,35.61,67.22,4.96,28.92,Tomato___Spider_mites Two-spotted_spider_mite,71.83
+254,30.16,63.36,0,26.98,Tomato___Spider_mites Two-spotted_spider_mite,69.37
+255,17.4,48.14,20.03,38.28,Tomato___Spider_mites Two-spotted_spider_mite,63.03
+256,22.58,67.07,13.77,34.63,Tomato___Spider_mites Two-spotted_spider_mite,64.54
+257,31.33,88.23,2.79,28.26,Tomato___Spider_mites Two-spotted_spider_mite,68.61
+258,21.46,80.18,5.27,30.49,Tomato___Target_Spot,67.36
+259,27.22,83.9,7.08,30.82,Tomato___Target_Spot,69.75
+260,28.87,52.33,0,27.11,Tomato___Target_Spot,71.24
+261,20.37,45.16,2.53,29.23,Tomato___Target_Spot,73.88
+262,24.7,58.11,0,27.53,Tomato___Target_Spot,71.15
+263,8.79,60.84,0,29.12,Tomato___Target_Spot,74.21
+264,19.88,76.41,2.19,29.11,Tomato___Target_Spot,72.38
+265,23.74,34.61,22.98,39.11,Tomato___Target_Spot,62.45
+266,18.76,82.94,11.41,33.83,Tomato___Target_Spot,67.91
+267,33.16,57.63,0,26.68,Tomato___Target_Spot,72.16
+268,17.85,53.6,10.73,33.58,Tomato___Target_Spot,67.1
+269,22.8,44.82,18.99,37.22,Tomato___Target_Spot,76.42
+270,25.65,35.18,14.25,34.56,Tomato___Target_Spot,81.35
+271,32.21,72.35,5.6,29.58,Tomato___Target_Spot,80.07
+272,17.82,61.1,0,28.22,Tomato___Target_Spot,73.18
+273,30.82,40.65,11.98,32.91,Tomato___Target_Spot,81.97
+274,25.05,40.57,8.93,31.96,Tomato___Target_Spot,75.54
+275,20.09,54.96,13.95,34.97,Tomato___Target_Spot,73.38
+276,27.31,85.04,11.35,32.94,Tomato___Target_Spot,72.28
+277,26,56.11,15.5,35.15,Tomato___Target_Spot,74.1
+278,22,37.45,0,27.8,Tomato___Target_Spot,73.95
+279,25.35,56.31,18.17,36.55,Tomato___Target_Spot,77.02
+280,23.07,55.91,6.98,31.18,Tomato___Target_Spot,77.24
+281,25.57,19.55,25.75,40.32,Tomato___Target_Spot,76.73
+282,28.31,59.19,0,27.17,Tomato___Target_Spot,79.17
+283,32.93,56.54,22.36,37.89,Tomato___Target_Spot,83.21
+284,18.81,70.44,6.98,31.61,Tomato___Target_Spot,82.28
+285,35.67,87.73,0,26.43,Tomato___Target_Spot,70.38
+286,15.24,76.9,0.16,28.56,Tomato___Target_Spot,65.31
+287,24.24,55.97,1.8,28.47,Tomato___Target_Spot,83.03
+288,27.94,43.4,9.24,31.83,Tomato___Target_Spot,71.8
+289,26.4,98.6,10.23,32.47,Tomato___Target_Spot,77.78
+290,21.89,60.89,0,27.81,Tomato___Target_Spot,73.33
+291,23.96,60.21,4.76,29.98,Tomato___Target_Spot,70.44
+292,22.53,59.64,26.42,40.96,Tomato___Target_Spot,82.43
+293,22.05,62.97,22.28,38.93,Tomato___Target_Spot,83.8
+294,29.25,57.83,9.36,31.76,Tomato___Tomato_Yellow_Leaf_Curl_Virus,77.39
+295,26.79,51.4,5.38,30.01,Tomato___Tomato_Yellow_Leaf_Curl_Virus,67.59
+296,21.54,51.8,6.2,30.95,Tomato___Tomato_Yellow_Leaf_Curl_Virus,78.09
+297,29.5,59.51,11.14,32.62,Tomato___Tomato_Yellow_Leaf_Curl_Virus,83.05
+298,26.54,51.85,0,27.35,Tomato___Tomato_Yellow_Leaf_Curl_Virus,73.98
+299,29.06,49.31,2.43,28.31,Tomato___Tomato_Yellow_Leaf_Curl_Virus,82.56
+300,28.15,61.6,0,27.19,Tomato___Tomato_Yellow_Leaf_Curl_Virus,81.84
+301,20.86,56.18,8.99,32.41,Tomato___Tomato_Yellow_Leaf_Curl_Virus,85.09
+302,22.2,82.56,11.47,33.52,Tomato___Tomato_Yellow_Leaf_Curl_Virus,83.06
+303,28.74,20.24,0.17,27.21,Tomato___Tomato_Yellow_Leaf_Curl_Virus,77.87
+304,28.05,76.37,20.74,37.56,Tomato___Tomato_Yellow_Leaf_Curl_Virus,89
+305,24.9,78.69,0,27.51,Tomato___Tomato_Yellow_Leaf_Curl_Virus,82.5
+306,25.59,28.9,0,27.44,Tomato___Tomato_Yellow_Leaf_Curl_Virus,83.43
+307,31.39,54.86,7.24,30.48,Tomato___Tomato_Yellow_Leaf_Curl_Virus,79.17
+308,22.04,54.43,15.47,35.53,Tomato___Tomato_Yellow_Leaf_Curl_Virus,81.89
+309,27.74,38.89,21.84,38.15,Tomato___Tomato_Yellow_Leaf_Curl_Virus,79.96
+310,23.99,48.33,0.41,27.81,Tomato___Tomato_Yellow_Leaf_Curl_Virus,83.79
+311,23.91,43.34,15.79,35.5,Tomato___Tomato_Yellow_Leaf_Curl_Virus,93.49
+312,30.49,86.28,4.61,29.26,Tomato___Tomato_Yellow_Leaf_Curl_Virus,78.35
+313,29.13,74.04,3.27,28.72,Tomato___Tomato_Yellow_Leaf_Curl_Virus,77.41
+314,29.07,79.07,13.84,34.01,Tomato___Tomato_Yellow_Leaf_Curl_Virus,93.11
+315,31.53,70.83,11.52,32.61,Tomato___Tomato_Yellow_Leaf_Curl_Virus,84.98
+316,25.11,43.06,0,27.49,Tomato___Tomato_Yellow_Leaf_Curl_Virus,82.96
+317,28.41,52.13,19.77,37.04,Tomato___Tomato_Yellow_Leaf_Curl_Virus,91.77
+318,23.45,67.34,18.8,37.06,Tomato___Tomato_Yellow_Leaf_Curl_Virus,83.82
+319,26.62,41.67,0,27.34,Tomato___Tomato_Yellow_Leaf_Curl_Virus,96.25
+320,24.35,70.69,8.96,32.04,Tomato___Tomato_Yellow_Leaf_Curl_Virus,90.79
+321,25.48,56.4,9.94,32.42,Tomato___Tomato_Yellow_Leaf_Curl_Virus,85.23
+322,27.98,54.38,7.61,31.01,Tomato___Tomato_Yellow_Leaf_Curl_Virus,98.73
+323,20.91,70.66,0,27.91,Tomato___Tomato_Yellow_Leaf_Curl_Virus,85.19
+324,35.46,66.66,0,26.45,Tomato___Tomato_Yellow_Leaf_Curl_Virus,92.2
+325,19.97,54.59,4.74,30.38,Tomato___Tomato_Yellow_Leaf_Curl_Virus,90.26
+326,18.93,77.39,16.73,36.47,Tomato___Tomato_Yellow_Leaf_Curl_Virus,95.55
+327,30.79,43.78,10.44,32.14,Tomato___Tomato_Yellow_Leaf_Curl_Virus,97.12
+328,28.96,69.24,1.29,27.75,Tomato___Tomato_Yellow_Leaf_Curl_Virus,89.75
+329,28.12,68.9,12.72,33.55,Tomato___Tomato_Yellow_Leaf_Curl_Virus,86.1
+330,28.14,55.36,0,27.19,Tomato___Tomato_Yellow_Leaf_Curl_Virus,92.44
+331,24.94,64.89,16.49,35.75,Tomato___Tomato_mosaic_virus,87.02
+332,20.51,41.23,0,27.95,Tomato___Tomato_mosaic_virus,100
+333,25.38,73.86,1.38,28.15,Tomato___Tomato_mosaic_virus,91.64
+334,21.61,57.23,0,27.84,Tomato___Tomato_mosaic_virus,89.41
+335,29.88,52.16,0,27.01,Tomato___Tomato_mosaic_virus,92.43
+336,24.26,75.74,16.61,35.88,Tomato___Tomato_mosaic_virus,85.05
+337,20.87,49.43,0.32,28.07,Tomato___Tomato_mosaic_virus,87.2
+338,23.39,38.87,8.47,31.89,Tomato___Tomato_mosaic_virus,98.33
+339,27.06,36.65,4.53,29.56,Tomato___Tomato_mosaic_virus,89.32
+340,22.18,69.09,9.77,32.67,Tomato___Tomato_mosaic_virus,87.64
+341,20.89,40.79,5.77,30.8,Tomato___Tomato_mosaic_virus,95.83
+342,26.22,86.32,0,27.38,Tomato___Tomato_mosaic_virus,99.35
+343,26.22,28.77,14.96,34.86,Tomato___Tomato_mosaic_virus,97.29
+344,22.47,85.45,0.06,27.78,Tomato___Tomato_mosaic_virus,98.95
+345,22.64,63.17,0,27.74,Tomato___Tomato_mosaic_virus,90.46
+346,26.16,58.55,0.72,27.74,Tomato___Tomato_mosaic_virus,87.41
+347,17.76,51.83,20.01,38.23,Tomato___Tomato_mosaic_virus,100
+348,17.96,65.99,13.5,34.95,Tomato___Tomato_mosaic_virus,93.46
+349,21.41,59.44,1.51,28.62,Tomato___Tomato_mosaic_virus,94.09
+350,23.93,76.55,1.51,28.36,Tomato___Tomato_mosaic_virus,100
+351,26.55,61.71,1.78,28.24,Tomato___Tomato_mosaic_virus,98.67
+352,32.38,62.25,25.77,39.65,Tomato___Tomato_mosaic_virus,98.44
+353,29.29,54.55,8.82,31.48,Tomato___Tomato_mosaic_virus,100
+354,24.2,59.15,9.3,32.23,Tomato___Tomato_mosaic_virus,93.49
+355,24.9,64.62,15.3,35.16,Tomato___Tomato_mosaic_virus,100
+356,19.99,34.35,7.39,31.7,Tomato___Tomato_mosaic_virus,97.55
+357,24.91,39.78,2.41,28.71,Tomato___Tomato_mosaic_virus,98.88
+358,23.56,71.15,3.04,29.16,Tomato___Tomato_mosaic_virus,100
+359,26.61,62.56,4.28,29.48,Tomato___Tomato_mosaic_virus,100
+360,20.86,57.24,4.63,30.23,Tomato___Tomato_mosaic_virus,100
+361,27.6,60.28,12.28,33.38,Tomato___Tomato_mosaic_virus,100
+362,32.66,65.21,5.52,29.49,Tomato___Tomato_mosaic_virus,97.08
+363,24.46,51.9,12.33,33.72,Tomato___Tomato_mosaic_virus,94.98
+364,27.01,48.33,4.19,29.4,Tomato___Tomato_mosaic_virus,94.23
+365,28.45,62.94,5.79,30.05,Tomato___Tomato_mosaic_virus,89.89
+366,22.99,45.32,0,27.7,Tomato___Tomato_mosaic_virus,100
